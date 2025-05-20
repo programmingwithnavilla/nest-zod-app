@@ -910,7 +910,7 @@
     webpack "5.99.6"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^11.0.0", "@nestjs/common@^11.0.1":
+"@nestjs/common@^11.0.0", "@nestjs/common@^11.1.1":
   version "11.1.1"
   resolved "https://registry.npmjs.org/@nestjs/common/-/common-11.1.1.tgz"
   integrity sha512-crzp+1qeZ5EGL0nFTPy9NrVMAaUWewV5AwtQyv6SQ9yQPXwRl9W9hm1pt0nAtUu5QbYMbSuo7lYcF81EjM+nCA==
@@ -921,7 +921,7 @@
     tslib "2.8.1"
     uid "2.0.2"
 
-"@nestjs/core@^11.0.0", "@nestjs/core@^11.0.1":
+"@nestjs/core@^11.0.0", "@nestjs/core@^11.1.1":
   version "11.1.1"
   resolved "https://registry.npmjs.org/@nestjs/core/-/core-11.1.1.tgz"
   integrity sha512-UFoUAgLKFT+RwHTANJdr0dF7p0qS9QjkaUPjg8aafnjM/qxxxrUVDB49nVvyMlk+Hr1+vvcNaOHbWWQBxoZcHA==
@@ -933,7 +933,7 @@
     tslib "2.8.1"
     uid "2.0.2"
 
-"@nestjs/platform-express@^11.0.0", "@nestjs/platform-express@^11.0.1":
+"@nestjs/platform-express@^11.0.0", "@nestjs/platform-express@^11.1.1":
   version "11.1.1"
   resolved "https://registry.npmjs.org/@nestjs/platform-express/-/platform-express-11.1.1.tgz"
   integrity sha512-IUxk380qnUtz0PCRQ5i+o9UHlGMrFzGPIJxDwyt3JZZwx2AngOlcEcm5e+7YeJQEr2QYX2QyC4tUQg0zde+D7A==
